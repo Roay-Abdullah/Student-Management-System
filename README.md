@@ -1,7 +1,3 @@
-# Student-Management-System
-
----
-
 # Student Management System (SMS)
 
 Welcome to the **Student Management System** (SMS)! This project was developed as part of the **Programming Fundamentals Semester Project** during my freshman year at university. The SMS is a console-based application built in **C++**, aiming to simplify student and teacher data management tasks.
