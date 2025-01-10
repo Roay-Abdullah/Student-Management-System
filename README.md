@@ -1,5 +1,4 @@
 # Student-Management-System
-Based on the provided information and the source code, here is a potential `README.md` file tailored to your project:
 
 ---
 
